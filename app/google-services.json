@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "590223818301",
+    "firebase_url": "https://attendance-80921-default-rtdb.firebaseio.com",
+    "project_id": "attendance-80921",
+    "storage_bucket": "attendance-80921.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590223818301:android:16d0c00f528cdcbfd93454",
+        "android_client_info": {
+          "package_name": "com.examen.attendance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcKP_m57pl27HLSRaXYBc0C11LOknRSv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
